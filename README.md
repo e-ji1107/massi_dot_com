@@ -79,7 +79,7 @@ If you wish to use all services, please contact ‘thelight0804@gmail.com’
           <img src="https://img.shields.io/badge/dmstjdd-000000?style=flat-square&logo=GitHub&logoColor=white"/>
         </td>
         <td align="center">
-          <a href="https://github.com/20203207" target="GitHub">
+          <a href="https://github.com/e-ji1107" target="GitHub">
           <img src="https://img.shields.io/badge/eunji1107-000000?style=flat-square&logo=GitHub&logoColor=white"/>
         </td>
         <td align="center">
