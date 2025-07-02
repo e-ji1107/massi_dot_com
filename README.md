@@ -80,7 +80,7 @@ If you wish to use all services, please contact ‘thelight0804@gmail.com’
         </td>
         <td align="center">
           <a href="https://github.com/e-ji1107" target="GitHub">
-          <img src="https://avatars.githubusercontent.com/u/93811062?v=4"/>
+          <img src="https://img.shields.io/badge/e-ji1107-000000?style=flat-square&logo=GitHub&logoColor=white"/>        </td>)
         </td>
         <td align="center">
           <a href="https://github.com/rox120" target="GitHub">
